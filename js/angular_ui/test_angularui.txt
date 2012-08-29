@@ -1,0 +1,10 @@
+How to use?
+===========
+
+
+You can import ``XXX`` from ``js.angular_ui`` and ``need`` it where you want
+these resources to be included on a page::
+
+  >>> from js.angular_ui import XXX # XXX fix this test
+  >>> XXX.need()
+

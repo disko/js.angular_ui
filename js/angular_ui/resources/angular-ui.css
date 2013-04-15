@@ -1,5 +1,3 @@
-
-
 /**
  * import components to builds angular-ui.css
  */
@@ -37,6 +35,11 @@
 
 .ui-currency-zero {
   color: blue;
+}
+
+.ui-currency-pos.ui-bignum,
+.ui-currency-neg.ui-smallnum {
+  font-size: 110%;
 }
 
 /* highlight */

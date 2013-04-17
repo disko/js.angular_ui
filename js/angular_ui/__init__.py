@@ -1,4 +1,6 @@
-from fanstatic import Group, Library, Resource
+from fanstatic import Group
+from fanstatic import Library
+from fanstatic import Resource
 from js.angular import angular
 
 library = Library('angularui', 'resources')
